@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "ycdirectory",
+		"path": ".."
+	},
+	{
+		"name": "assets",
+		"path": "../../../../Downloads/assets"
+	}
+],
+  "settings": {}
+}
